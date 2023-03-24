@@ -1,4 +1,5 @@
 ## Madison Phelps
+
  <img src="Self_image.jpg" alt="Self Image">
 
  ### Contact Information
