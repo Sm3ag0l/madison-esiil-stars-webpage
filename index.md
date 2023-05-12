@@ -5,6 +5,7 @@
 
  ## Contact Information:
  - Email: madison.phelps@mines.sdsmt.edu
+ - Github: https://github.com/Sm3ag0l
  ## Education: 
  -  Oglala Lakota College; AA in Tribal Law
  -  South Dakota School of Mines & Technology; Junior; BA in Civil and Environmental Engineering with a minor in Sustainable Engineering
